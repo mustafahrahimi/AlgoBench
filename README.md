@@ -18,7 +18,10 @@ This tool helps understand algorithm complexity through hands-on performance ana
 
 ## Installation
 
-1. Download the project files
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/mustafahrahimi/mustafahrahimi.github.io.git
+    ```
 2. Navigate to the project directory:
     ```bash
     cd "AlgoBench"
@@ -66,4 +69,5 @@ The program displays performance tables showing:
 make        # Build executable
 make clean  # Remove build files
 ```
+
 
